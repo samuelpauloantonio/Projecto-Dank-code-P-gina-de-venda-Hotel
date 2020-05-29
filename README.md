@@ -1,7 +1,7 @@
 Esté um Site de um Hotel . Baseado nos Projectos do Curso da Dank Code
 o Pacote Full Stack - Propriamente o Webmaster. 
 
-- Nesse Projecto eu desenvolve  o site do hotel  "Cena", com um formulario de contacto personalizado. 
+- Nesse Projecto eu desenvolve  o site do hotel  "Cena", com um formulario de contacto personalizado e com validação com jquery. 
 
 O site   inlustra os quartos do Hotel e outros lugares de lazer para o cliente.
 

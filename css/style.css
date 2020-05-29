@@ -117,12 +117,13 @@ section.cover-form>.bg{
     color: rgb(200, 200, 200);
 }
 
-.form-containner form input[type=text],.form-containner form input[type=email]{
+.form-containner form input[type=text],.form-containner form input[type=email],.form-containner form input[type=tel]{
     width:100%;
     border: 1px solid #ccc;
     height: 45px;
     line-height: 45px;
     padding-left: 8px;
+    outline: none;
     
 }
 
